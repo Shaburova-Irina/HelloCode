@@ -1,0 +1,15 @@
+C:\Users\canbi\OneDrive\Desktop\Учеба\Тема №3.  С#\Лекция_1\Examples\Example\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.exe
+C:\Users\canbi\OneDrive\Desktop\Учеба\Тема №3.  С#\Лекция_1\Examples\Example\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.deps.json
+C:\Users\canbi\OneDrive\Desktop\Учеба\Тема №3.  С#\Лекция_1\Examples\Example\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.runtimeconfig.json
+C:\Users\canbi\OneDrive\Desktop\Учеба\Тема №3.  С#\Лекция_1\Examples\Example\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.dll
+C:\Users\canbi\OneDrive\Desktop\Учеба\Тема №3.  С#\Лекция_1\Examples\Example\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.pdb
+C:\Users\canbi\OneDrive\Desktop\Учеба\Тема №3.  С#\Лекция_1\Examples\Example\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\canbi\OneDrive\Desktop\Учеба\Тема №3.  С#\Лекция_1\Examples\Example\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canbi\OneDrive\Desktop\Учеба\Тема №3.  С#\Лекция_1\Examples\Example\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\canbi\OneDrive\Desktop\Учеба\Тема №3.  С#\Лекция_1\Examples\Example\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfo.cs
+C:\Users\canbi\OneDrive\Desktop\Учеба\Тема №3.  С#\Лекция_1\Examples\Example\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\canbi\OneDrive\Desktop\Учеба\Тема №3.  С#\Лекция_1\Examples\Example\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.dll
+C:\Users\canbi\OneDrive\Desktop\Учеба\Тема №3.  С#\Лекция_1\Examples\Example\Example001_HelloConsole\obj\Debug\net6.0\refint\Example001_HelloConsole.dll
+C:\Users\canbi\OneDrive\Desktop\Учеба\Тема №3.  С#\Лекция_1\Examples\Example\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.pdb
+C:\Users\canbi\OneDrive\Desktop\Учеба\Тема №3.  С#\Лекция_1\Examples\Example\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.genruntimeconfig.cache
+C:\Users\canbi\OneDrive\Desktop\Учеба\Тема №3.  С#\Лекция_1\Examples\Example\Example001_HelloConsole\obj\Debug\net6.0\ref\Example001_HelloConsole.dll
